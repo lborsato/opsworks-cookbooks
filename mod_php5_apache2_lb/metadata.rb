@@ -1,4 +1,4 @@
-name        "mod_php5_apache2"
+name        "mod_php5_apache2_lb"
 description "Installs/Configures Apache with mod_php5"
 maintainer  "AWS OpsWorks"
 license     "Apache 2.0"
